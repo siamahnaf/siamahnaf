@@ -14,12 +14,6 @@ I'm happy to help with any questions or issues related to:
 
 You can contact me through any of these channels:
 
-- Email: main@siamahnaf.com
+- Email: mail@siamahnaf.com
 - Twitter: @siamahnaf198
 - LinkedIn: @siamahnaf198
-
-## ⚡ My stats ...
-
-[![Siam Ahnaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=siamahnaf)](https://github.com/siamahnaf)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siamahnaf&layout=compact)](https://github.com/siamahnaf)
