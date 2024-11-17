@@ -9,6 +9,7 @@
 # 💫 About Me:
 🔭 I take pride in creating top-notch mobile and web applications.<br>📚 Constantly learning and evolving to stay ahead in the tech landscape.<br>💯 I ensure the quality of every application I build, striving for excellence in every aspect.<br>🌟 My commitment is to deliver quality work that not only meets but exceeds expectations.<br>🚀 I specialize in creating scalable and profession application as your specific needs.<br>🌐 My focus is on delivering quality application that grow your business rapidly.<br>🔍 I prioritize clear communication and transparency throughout the project lifecycle.<br>🎯 I aim to achieve goals with skill and development.<br>💡 My passion for technology fuels creative and effective work for every project.
 
+[![](https://visitcount.itsvg.in/api?id=siamahnaf&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/siamahnaf198) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siamahnaf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@siamahnaf) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15082664/siam-ahnaf) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siamahnaf198) 
@@ -64,7 +65,3 @@
 </picture>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siamahnaf&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siamahnaf)
