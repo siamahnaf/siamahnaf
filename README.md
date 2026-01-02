@@ -123,18 +123,22 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=dark"
+    srcset="https://quotier.vercel.app/quote?theme=dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-quotes-bay.vercel.app/quote"
+    srcset="https://quotier.vercel.app/quote?theme=light"
   />
   <img
     alt="Dev Quote"
-    src="https://github-readme-quotes-bay.vercel.app/quote"
+    src="https://quotier.vercel.app/quote?theme=dark"
     style="width:100%; height:auto;"
   />
 </picture>
+
+
+
+
 
 
 <div style="display: flex; align-items: center; gap: 3px;" align="center">
